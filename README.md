@@ -1,6 +1,9 @@
 # **Reinforcement Learning**
 <p>Reinforcement Learning is a type of machine learning that enables an agent to learn from its interactions with an environment through trial-and-error learning. The agent learns to take actions in an environment to maximize its reward signal over time. The goal of reinforcement learning is to find the optimal policy that maximizes the cumulative reward received by the agent.</p>
 
+## **Cliff Walking Reinforcement Learning**
+<p>The Cliff Walking environment is a classic Reinforcement Learning problem in which an agent must navigate a grid world with a cliff that drops off into the water. The agent must reach the goal on the other side of the cliff while avoiding falling off the cliff. Train a Reinforcement Learning agent to navigate the Cliff Walking environment using Sarsa and Q-Learning algorithms in Python with OpenAI Gym. The goal is to reach the goal state on the other side of the cliff while avoiding falling off the cliff.</p>
+
 ## **Sarsa and Q-Learning Algorithms**
 <p>Sarsa and Q-Learning are two popular reinforcement learning algorithms used to solve various problems. Both algorithms use the concept of the Q-value function to determine the optimal policy.
 
